@@ -1,0 +1,166 @@
+{
+    "intents": [
+        {
+            "tag": "offering",
+            "patterns": [
+                "What are different areas in which Athena Healthcare works?",
+                "What all areas does Athena Healcare work on?",
+                "In what all areas does Athena Healthcare work?",
+                "How can Athena Healthcare help me as a doctor?",
+                "What are the offerings that the company provides?"
+            ],
+            "responses": [
+                "Athena Healthcare specialises in the areas of Revenue Cycle Management Patient Engagement, Medical Billing, Care Coordination, Population Health Management, Point-of-care mobile apps, Electronic Health Records (EHR), and health information technology",
+                "Athena Healthcare specialises in the areas of Revenue Cycle Management Patient Engagement, Medical Billing, Care Coordination, Population Health Management, Point-of-care mobile apps, Electronic Health Records (EHR), and health information technology",
+                "Athena Healthcare specialises in the areas of Revenue Cycle Management Patient Engagement, Medical Billing, Care Coordination, Population Health Management, Point-of-care mobile apps, Electronic Health Records (EHR), and health information technology",
+                "Athena Healthcare specialises in the areas of Revenue Cycle Management Patient Engagement, Medical Billing, Care Coordination, Population Health Management, Point-of-care mobile apps, Electronic Health Records (EHR), and health information technology",
+                "Athena Healthcare specialises in the areas of Revenue Cycle Management Patient Engagement, Medical Billing, Care Coordination, Population Health Management, Point-of-care mobile apps, Electronic Health Records (EHR), and health information technology"
+            ]
+        },
+        {
+            "tag": "incorportated",
+            "patterns": [
+                "When was Athena Healthcare incorportated?",
+                "When did athena healthcare start?",
+                "How old is athena healthcare",
+                "How old is the company",
+                "When did the company start",
+                "How long has the company been functioninig?"
+            ],
+            "responses": [
+                "athenahealth Inc., incorporated on August 21, 1997 by Jonathan Bush and Todd Park",
+                "athenahealth Inc., incorporated on August 21, 1997 by Jonathan Bush and Todd Park",
+                "athenahealth Inc., incorporated on August 21, 1997 by Jonathan Bush and Todd Park",
+                "athenahealth Inc., incorporated on August 21, 1997 by Jonathan Bush and Todd Park",
+                "athenahealth Inc., incorporated on August 21, 1997 by Jonathan Bush and Todd Park",
+                "athenahealth Inc., incorporated on August 21, 1997 by Jonathan Bush and Todd Park"
+            ]
+        },
+        {
+            "tag": "opengreet",
+            "patterns": [
+                "Hi",
+                "hi",
+                "Is Anyone there?",
+                "Hello"
+            ],
+            "responses": [
+                "Welcome to athenahealth . My name is Logan .How can i help.",
+                "Welcome to athenahealth . My name is Logan .How can i help.",
+                "Welcome to athenahealth . My name is Logan .How can i help.",
+                "Welcome to athenahealth . My name is Logan .How can i help.",
+                "Welcome to athenahealth . My name is Logan .How can i help."
+            ]
+        },
+        {
+            "tag": "closegreet",
+            "patterns": [
+                "Thank You",
+                "Thanks",
+                "thanks",
+                "thank you"
+            ],
+            "responses": [
+                "Welcome ! For more information please visit athenahealth.com",
+                "Welcome ! For more information please visit athenahealth.com",
+                "Welcome ! For more information please visit athenahealth.com",
+                "Welcome ! For more information please visit athenahealth.com",
+                "Welcome ! For more information please visit athenahealth.com"
+            ]
+        },
+        {
+            "tag": "athenaone",
+            "patterns": [
+                "What is athena one",
+                "what is athenaone",
+                "what are the capabilities of athena one",
+                "What are the features in athena one"
+            ],
+            "responses": [
+                "athenaOne is athenahealth's fully integrated suite of cloud-based services, combining practice management (athenaCollector), an electronic health record (EHR) system (athenaClinicals), and care coordination (athenaCommunicator) into a single packaged offering.",
+                "athenaOne is athenahealth's fully integrated suite of cloud-based services, combining practice management (athenaCollector), an electronic health record (EHR) system (athenaClinicals), and care coordination (athenaCommunicator) into a single packaged offering.",
+                "athenaOne is athenahealth's fully integrated suite of cloud-based services, combining practice management (athenaCollector), an electronic health record (EHR) system (athenaClinicals), and care coordination (athenaCommunicator) into a single packaged offering.",
+                "athenaOne is athenahealth's fully integrated suite of cloud-based services, combining practice management (athenaCollector), an electronic health record (EHR) system (athenaClinicals), and care coordination (athenaCommunicator) into a single packaged offering.",
+                "athenaOne is athenahealth's fully integrated suite of cloud-based services, combining practice management (athenaCollector), an electronic health record (EHR) system (athenaClinicals), and care coordination (athenaCommunicator) into a single packaged offering."
+        ]
+        },
+        {
+            "tag": "productsservices",
+            "patterns": [
+                "what are the different products and services offered by athena healthcare?",
+                "which product or service is useful for me?",
+                "what products and services does athena healthcare have",
+                "what are the products offered by athena health",
+                "what are the products offered",
+                "what are the services offered by athena health",
+                "what are the products that athena health currently has"
+            ],
+            "responses": [
+                "The Company's suite of network-enabled products/services includes athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services",
+                "The company has the following produts athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services ",
+                "The company has the following produts athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services ",
+                "The company has the following produts athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services ",
+                "The company has the following produts athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services ",
+                "The company has the following produts athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services ",
+                "The company has the following produts athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, Population Health and Epocrates.For more information on the products and services, please visit athenahealth.com/products-and-services "
+            ]
+        },
+        {
+            "tag": "athenaCollector",
+            "patterns": [
+                "what is athena collector?",
+                "how is athena collector useful to me?",
+                "what are the capabilities of athena collector?",
+                "is athena collector a useful for me?",
+                "what are the speciality of athena collector"
+
+            ],
+            "responses": [
+                "The Company's athenaCollector is its network-enabled billing and practice management solution. For more information on athenaCollector , please visit athenahealth.com/practice/athenacollector/medical-billing",
+                "The Company's athenaCollector is its network-enabled billing and practice management solution. For more information on athenaCollector , please visit athenahealth.com/practice/athenacollector/medical-billing",
+                "The Company's athenaCollector is its network-enabled billing and practice management solution. For more information on athenaCollector , please visit athenahealth.com/practice/athenacollector/medical-billing",
+                "The Company's athenaCollector is its network-enabled billing and practice management solution. For more information on athenaCollector , please visit athenahealth.com/practice/athenacollector/medical-billing",
+                "The Company's athenaCollector is its network-enabled billing and practice management solution. For more information on athenaCollector , please visit athenahealth.com/practice/athenacollector/medical-billing",
+                "The Company's athenaCollector is its network-enabled billing and practice management solution. For more information on athenaCollector , please visit athenahealth.com/practice/athenacollector/medical-billing"
+            ]
+        },
+        {
+            "tag": "athenacoordinator ",
+            "patterns": [
+                "what is athena coordinator?",
+                "what is athen coordinator",
+                "how is athena coordinator useful to me?",
+                "what are the capabilities of athena coordinator?",
+                "is athena coordinator a useful for me?",
+                "what are the speciality of athena coordinator"
+            ],
+            "responses": [
+                "The Company's athenaCoordinator is a network-enabled order transmission and care coordination service.or more information on athenaCoordinator , please visit athenahealth.com/enterprise/athenacoordinator/patient-access.",
+                "The Company's athenaCoordinator is a network-enabled order transmission and care coordination service.or more information on athenaCoordinator , please visit athenahealth.com/enterprise/athenacoordinator/patient-access.",
+                "The Company's athenaCoordinator is a network-enabled order transmission and care coordination service.or more information on athenaCoordinator , please visit athenahealth.com/enterprise/athenacoordinator/patient-access.",
+                "The Company's athenaCoordinator is a network-enabled order transmission and care coordination service.or more information on athenaCoordinator , please visit athenahealth.com/enterprise/athenacoordinator/patient-access.",
+                "The Company's athenaCoordinator is a network-enabled order transmission and care coordination service.or more information on athenaCoordinator , please visit athenahealth.com/enterprise/athenacoordinator/patient-access.",
+                "The Company's athenaCoordinator is a network-enabled order transmission and care coordination service.or more information on athenaCoordinator , please visit athenahealth.com/enterprise/athenacoordinator/patient-access."
+            ]
+        },
+        {
+            "tag": "athenalinicals",
+            "patterns": [
+                "what is athena clinicals?",
+                "what is athen clinicals",
+                "how is athena coordinator useful to me?",
+                "what are the capabilities of athena coordinator?",
+                "what are the speciality of athena coordinator"
+            ],
+            "responses": [
+                "athenaClinicals is its network-enabled electronic health record (EHR) service, which combines a Web-based EHR with a clinical cycle management solution and a back-office document management service to help manage patient's clinical documentation.For more information please visit athenahealth.com/practice/athenaclinicals/ehr",
+                "athenaClinicals is its network-enabled electronic health record (EHR) service, which combines a Web-based EHR with a clinical cycle management solution and a back-office document management service to help manage patient's clinical documentation.For more information please visit athenahealth.com/practice/athenaclinicals/ehr",
+                "athenaClinicals is its network-enabled electronic health record (EHR) service, which combines a Web-based EHR with a clinical cycle management solution and a back-office document management service to help manage patient's clinical documentation.For more information please visit athenahealth.com/practice/athenaclinicals/ehr",
+                "athenaClinicals is its network-enabled electronic health record (EHR) service, which combines a Web-based EHR with a clinical cycle management solution and a back-office document management service to help manage patient's clinical documentation.For more information please visit athenahealth.com/practice/athenaclinicals/ehr",
+                "athenaClinicals is its network-enabled electronic health record (EHR) service, which combines a Web-based EHR with a clinical cycle management solution and a back-office document management service to help manage patient's clinical documentation.For more information please visit athenahealth.com/practice/athenaclinicals/ehr",
+                "athenaClinicals is its network-enabled electronic health record (EHR) service, which combines a Web-based EHR with a clinical cycle management solution and a back-office document management service to help manage patient's clinical documentation.For more information please visit athenahealth.com/practice/athenaclinicals/ehr"
+            ]
+    }
+
+    ]
+}
